@@ -37,7 +37,7 @@ html,body{
   justify-content: center;
   align-items: center;
   gap: 40px; 
-  font-weight: 100;
+  font-weight: 100; 
 }
 
 #center h4 {
@@ -55,4 +55,4 @@ button {
   cursor: pointer;
   font-weight: 500;
 
-}
+} 
