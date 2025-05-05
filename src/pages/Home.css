@@ -1,6 +1,6 @@
 #home-main {
   position: relative;
-  height: 80vh;
+  height: 100vh;
   /* background-color: red; */
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -28,11 +28,11 @@
   display: flex;
   top: 10%;
   flex-direction: column;
-  gap: 1vw;
 }
 
 #home-right h4 {
   font-weight: 800;
+  padding-bottom: 1vw;
   font-size: 1.3vw;
   font-family: fantasy;
   color: rgb(171, 48, 171);
@@ -45,11 +45,14 @@
 }
 #home-right h1 {
   font-size: 5vw;
+  padding: 1vw 0;
+  line-height: 5vw;
 }
 #home-right p {
   font-size: 1.1vw;
+  padding-bottom: 2vw;
   color: gray;
-  padding: 2vw 0;
+  padding: 1vw 0;
 }
 #home-right #concept {
   font-size: 5vw;
@@ -57,23 +60,102 @@
   font-weight: 600;
 }
 
-
 #home-card {
-  display: flex;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
   position: relative;
-  /* height: 10%; */
+  margin-top: 2vw;
   width: 80%;
- text-align: center;
-  padding: 4vw ;
+  text-align: center;
+  padding: 2vw;
   border-radius: 50px;
-  
-  background:linear-gradient(to right, rgb(241, 122, 241), rgb(245, 176, 245));
+
+  background: linear-gradient(to right, rgb(241, 122, 241), rgb(245, 176, 245));
 }
 
-#home-card
-
-#home-cardbutton{
-  background-color: black;
-  padding: -10vw 2vw;
+#home-card p {
+  padding: 1vw;
+  text-align: left;
+  color: rgb(34, 32, 32);
 }
+
+#gooye1{
+  width: 20vw;
+  height: 20vw;
+  position: absolute;
+  border-radius: 50%;
+  background: linear-gradient(to top right,#ef95de,#ebc4e1);
+  top: 0%;
+  right: 0%;
+  filter: blur(80px);
+  animation-name: gooye1;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes gooye1{
+  from{
+      /* skew-- element ko dabane ka kaam karega */
+      transform: translate(20%,-20%) skew(0);
+  }
+  to{
+      filter: blur(80px);
+      transform: translate(-10%,10%) skew(-12deg);
+  }
+}
+#gooye2{
+  width: 20vw;
+  height: 20vw;
+  position: absolute;
+  border-radius: 50%;
+  background: linear-gradient(to top right,#ef95de,#ebc4e1);
+  top: 30%;
+  left: 50%;
+  filter: blur(80px);
+  animation-name: gooye2;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes gooye2{
+  from{
+      /* skew-- element ko dabane ka kaam karega */
+      transform: translate(20%,-20%) skew(0);
+  }
+  to{
+      filter: blur(80px);
+      transform: translate(-10%,10%) skew(-12deg);
+  }
+}
+#gooye3{
+  width: 20vw;
+  height: 20vw;
+  position: absolute;
+  border-radius: 50%;
+  background: linear-gradient(to top right,#ef95de,#ebc4e1);
+  bottom: 20%;
+  left: 0%;
+  filter: blur(80px);
+  animation-name: gooye3;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes gooye3{
+  from{
+      /* skew-- element ko dabane ka kaam karega */
+      transform: translate(20%,-20%) skew(0);
+  }
+  to{
+      filter: blur(80px);
+      transform: translate(-10%,10%) skew(-12deg);
+  }
+}
+
 
