@@ -35,7 +35,7 @@ const Home = () => {
       <div
         id="last-line"
         className="flex justify-center
-      items-center relative left-[50%] text-[1.2vw] text-[#a303a3] font-[550] z-10 bottom-[20%]"
+      items-center relative left-[50%] text-[1.2vw] text-[#a303a3] font-[550] z-10 bottom-[-100%]"
       >
         <p>
           Trusted by <span className="text-[black]">15.000+</span> Organisation
@@ -48,6 +48,30 @@ const Home = () => {
         <div id="gooye3" className="absolute"></div>
         
       </div>
+
+      <div id='logo' className="flex  relative left-[50%] top-[50%] justify-center items-center gap-[2vw] m-[2vw]">
+   
+    <div className="bg-white shadow-md p-4 rounded-xl">
+      <img src="/logos/logo1.svg" alt="logo 1" className="h-10 object-contain" />
+    </div>
+    <div className="bg-white shadow-md p-4 rounded-xl">
+      <img src="/logos/logo2.svg" alt="logo 2" className="h-10 object-contain" />
+    </div>
+    <div className="bg-white shadow-md p-4 rounded-xl">
+      <img src="/logos/logo3.svg" alt="logo 3" className="h-10 object-contain" />
+    </div>
+    <div className="bg-white shadow-md p-4 rounded-xl">
+      <img src="/logos/logo4.svg" alt="logo 4" className="h-10 object-contain" />
+    </div>
+    <div className="bg-white shadow-md p-4 rounded-xl">
+      <img src="/logos/logo5.svg" alt="logo 5" className="h-10 object-contain" />
+    </div>
+    <div className="bg-white shadow-md p-4 rounded-xl">
+      <img src="/logos/logo6.svg" alt="logo 6" className="h-10 object-contain" />
+    </div>
+  </div>
+
+        
     </div>
   );
 };
