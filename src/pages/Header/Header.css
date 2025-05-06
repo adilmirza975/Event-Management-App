@@ -19,10 +19,11 @@ html,body{
   border-radius: 50px;
   margin: 1.5vw 4vw;
   font-family: sans-serif;
+  color: white;
 }
 
 #left h4{
-  font-size: 1.5vw;
+  font-size: 2vw;
   font-family:fantasy;
   font-weight: 800;
 }
@@ -39,6 +40,7 @@ html,body{
   align-items: center;
   gap: 40px; 
   font-weight: 100; 
+  color: black;
 }
 
 #center h4 {
