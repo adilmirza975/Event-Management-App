@@ -33,7 +33,7 @@ const Home = () => {
       <div
         id="last-line"
         className="flex justify-center
-      items-center relative left-[50%] text-[1.2vw] text-[#a303a3] font-[550] z-10 bottom-[-100%]"
+      items-center relative left-[50%] text-[1.2vw] text-[#a303a3] font-[550] z-10 bottom-[-10%]"
       >
         <p>
           Trusted by <span className="text-[black]">15.000+</span> Organisation
@@ -47,7 +47,7 @@ const Home = () => {
         
       </div>
 
-      <div id='logo' className="flex  relative left-[50%] top-[50%] justify-center items-center gap-[2vw] m-[2vw]">
+      <div id='logo' className="flex  relative left-[50%] top-[-20%] justify-center items-center gap-[2vw] m-[2vw]">
    
     <div className="bg-white shadow-md p-4 rounded-xl">
       <img src="/logos/logo1.svg" alt="logo 1" className="h-10 object-contain" />

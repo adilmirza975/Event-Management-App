@@ -4,9 +4,15 @@
   box-sizing: border-box;
 }
 
+html,body{
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
 #home-main {
   position: relative;
-  height: 80vh;
+  height: 100vh;
   /* background-color: red; */
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -143,7 +149,7 @@
   position: absolute;
   border-radius: 50%;
   background: linear-gradient(to top right,#ef95de,#ebc4e1);
-  bottom: -10%;
+  bottom: 30%;
   left: 0%;
   filter: blur(80px);
   animation-name: gooye3;

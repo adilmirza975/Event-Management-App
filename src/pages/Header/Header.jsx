@@ -13,8 +13,7 @@ const Header = () => {
         <Link to="/about" className="nav-link"><h4>About Us</h4></Link>
         <Link to="/events" className="nav-link"><h4>Events</h4></Link>
         <Link to="/contact" className="nav-link"><h4>Contact</h4></Link>
-        <h4>Sponsor</h4>
-        <h4>Blogs</h4>
+        
       </div>
 
       <div id='Right'>
