@@ -2,6 +2,10 @@ import './Header.css';
 import { Link } from 'react-router-dom';
 
 const Header = () => {
+  
+const handleclick = ()=>{
+  alert('coming soon')
+}
   return (
     <div id='main'>
       <div id='left'>
@@ -17,7 +21,7 @@ const Header = () => {
       </div>
 
       <div id='Right'>
-        <button>Get A Ticket</button>
+        <button onClick={handleclick}>Get A Ticket</button>
       </div>
     </div>
   );
