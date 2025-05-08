@@ -50,10 +50,11 @@ const EventCard = ({ title, date, image }) => (
   </div>
 );
 
+
 const FeaturedEvents = () => (
   <div
     style={{ padding: "5vw 0", paddingBottom:'10vw' }}
-    className="featured min-h-screen  bg-gradient-to-br from-orange-100 to-purple-100 py-12 px-16"
+    className="featured min-h-screen  bg-gradient-to-br from-purple-100 to-purple-100 py-12 px-16"
   >
     <div className="w-full mx-auto text-center">
       <p className="text-pink-600 font-semibold text-sm mb-2">Upcoming Event</p>
