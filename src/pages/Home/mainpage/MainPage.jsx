@@ -1,6 +1,12 @@
-import "../Home.css";
+import "./MainPage.css";
 
 const Home = () => {
+
+  const HandleClickEvents = ()=> {
+    alert('Coming Soon')
+  }
+
+
   return (
     <div id="home-main" className="max-h-screen ">
       
@@ -16,8 +22,8 @@ const Home = () => {
           From <span id="concept">concept</span>, <br />
           to celebration
         </h1>
-        <p style={{ wordSpacing: "0.2em" }}>
-          From exhibitions to private gatherings, create unforgettable <br />{" "}
+        <p >
+          From exhibitions to private gatherings, create unforgettable <br />
           moments and endless memories
         </p>
 
@@ -27,14 +33,14 @@ const Home = () => {
             to make it happen
           </p>
 
-          <button className="">Explore Events</button>
+          <button className=" duration-300 ease-in-out  hover:shadow-2xl hover:scale-105" onClick={HandleClickEvents}>Explore Events</button>
         </div>
       </div>
 
       <div
         id="last-line"
         className="flex justify-center
-      items-center relative left-[50%] text-[1.2vw] text-[#a303a3] font-[550] z-10 bottom-[15%]"
+      items-center relative left-[50%] text-[1.2vw] text-[#a303a3] font-[550] z-10 bottom-[-5%]"
       >
         <p>
           Trusted by <span className="text-[black]">15.000+</span> Organisation
