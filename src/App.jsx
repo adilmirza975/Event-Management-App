@@ -1,9 +1,45 @@
 // App.jsx
-import { RouterProvider } from 'react-router-dom';
-import routes from './routes/routes';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { AppLayout } from './components/layout/AppLayout';
+
+import './index.css'
+
+
+import { Home } from './pages/Home';
+import { About } from './pages/About';
+import { Events } from './pages/Events';
+import { Contact } from './pages/Contact';
+import { ErrorPage } from './pages/ErrorPage';
+
+const router = createBrowserRouter([
+  {
+    path:'/',
+    element:<AppLayout/>,
+    errorElement:<ErrorPage/>,
+    children:[
+
+      {
+        path:'/',
+        element:<Home/>
+      },
+      {
+        path:'about',
+        element:<About/>
+      },
+      {
+        path:'Events',
+        element:<Events/>
+      },
+      {
+        path:'Contact',
+        element:<Contact/>
+      }     
+    ]
+  }
+])
 
 const App = () => {
-  return <RouterProvider router={routes} />;
+  return <RouterProvider router={router} />;
 };
 
 export default App;
