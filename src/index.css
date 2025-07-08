@@ -28,7 +28,12 @@ button {
   color: #fff;
 }
 
-
+button{
+  display: flex;
+  gap: 1.2rem;
+  align-items: center;
+  font-family: inherit;
+}
 
 
 /* PAGE LAYOUT */
@@ -127,6 +132,15 @@ nav ul {
       margin-bottom: 1.2rem;
     }
   }
+}
+
+
+/* home page */
+
+.hero-section {
+  padding: 3.2rem;
+  margin: 9rem auto;
+  gap: 6.4rem;
 }
 
 
