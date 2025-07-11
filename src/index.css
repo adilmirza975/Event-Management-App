@@ -29,16 +29,28 @@ button {
 }
 
 button{
-  display: flex;
+   display: flex;
   gap: 1.2rem;
   align-items: center;
   font-family: inherit;
+  font-weight: 500;
+  line-height: 1.5;
+  cursor: pointer;
+  padding: 0.6rem 2.4rem;
+  text-align: center;
+  outline: none;
+  border: solid 0.1rem ;
+  text-transform: unset;
+  background: #202020;
+  color: #fff;
+  border-radius: 1.5rem;
+  margin-top: 1.6rem;
 }
 
 
 /* PAGE LAYOUT */
 .container{
-  max-width: 150rem;
+  max-width: 140rem;
   margin: auto;
 }
 .grid{
@@ -90,11 +102,13 @@ nav ul {
   }
 }
 
+
+
+/* desktop pe initaially ham menu ko nai dikhana hai */
+
 .ham-menu{
   display: none;
 }
-
-
 /* header - media-query */
 @media screen and (max-width: 998px){
   .menu-web {
@@ -135,12 +149,96 @@ nav ul {
 }
 
 
-/* home page */
+/* home page - hero section */
 
-.hero-section {
+.hero-section .container {
   padding: 3.2rem;
   margin: 9rem auto;
   gap: 6.4rem;
 }
+.heading-xl {
+  font-family: inherit;
+  font-size: clamp(5.2rem, 6vw, 4.241rem);
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -1px;
+}
+.paragraph {
+  margin: 5.2rem 0;
+}
+.hero-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container .banner-image {
+  width: 100%;
+
+  border-radius: 5%;
+  box-shadow: 10px 5px 50px rgba(94, 100, 103, 0.76);
+}
+/* home-page */
+@media screen and (max-width: 990px) {
+  .hero-content {
+    order: 1;    
+  }
+
+  .container .banner-image {
+    width: 80%;
+    order: 0;
+  }
+}
+
+/* about-section */
+.container-title {
+  text-align: center;
+  padding: 0 !important;
+  margin-bottom: 40px;
+  font-size: 40px;
+  color: #fff;
+  font-weight: 600;
+  line-height: 60px;
+}
+
+/* contact-page */
+
+.section-contact {
+  margin: 9.6rem auto;
+
+  & hr {
+    border-color: rgba(255, 255, 255, 0.6);
+  }
+}
+.contact-wrapper {
+  display: flex;
+  justify-content: center;
 
 
+  & form {
+    display: flex;
+    flex-direction: column;
+    gap: 3.2rem;
+    width: 100%;
+    max-width: 48rem;
+
+    & input,
+    & textarea {
+      font-family: "urbanist";
+      background-color: #000;
+      font-size: 1.6rem;
+      color: #fff;
+      outline: none;
+      border: 0.1rem solid rgba(255, 255, 255, 0.4);
+      padding: 1.2rem 1.6rem;
+      border-radius: 0.3rem;
+      -webkit-border-radius: 0.3rem;
+      -moz-border-radius: 0.3rem;
+      -ms-border-radius: 0.3rem;
+      -o-border-radius: 0.3rem;
+    }
+
+    & button{
+      align-items: center;
+    }
+  }
+}

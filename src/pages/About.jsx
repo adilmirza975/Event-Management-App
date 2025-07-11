@@ -1,3 +1,7 @@
 export const About = () => {
-  return <h1>About</h1>
+  return (
+    <section>
+      
+    </section>
+  )
 }

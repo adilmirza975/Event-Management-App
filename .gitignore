@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# this is where my private token is
+.env.local
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
