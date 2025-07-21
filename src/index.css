@@ -235,16 +235,14 @@ nav ul {
 
 
 /* in future if any of the color you want you change !, currently we are bg-blue-box */
-.bg-green-box,
+
 .bg-white-box,
-.bg-yellow-box,
 .bg-blue-box {
   position: relative;
 }
 
-.bg-green-box::after,
+
 .bg-white-box::after,
-.bg-yellow-box::after,
 .bg-blue-box::after {
   position: absolute;
   top: -1px;
@@ -256,16 +254,8 @@ nav ul {
   border-radius: 45px;
 }
 
-.bg-green-box::after {
-  background: linear-gradient(71deg, #0d1212, #3da077, #0d1212);
-}
-
 .bg-white-box::after {
   background: linear-gradient(71deg, #121013, #b0afb0, #121013);
-}
-
-.bg-yellow-box::after {
-  background: linear-gradient(71deg, #110e0e, #afa220, #110e0e);
 }
 
 .bg-blue-box::after {
@@ -331,4 +321,108 @@ nav ul {
       align-items: center;
     }
   }
+}
+
+
+/* event-card of event page */
+.event-card {
+  margin-top: 3.2rem;
+}
+.country-section {
+  margin: 6.4rem auto 9.6rem auto;
+  & .grid {
+    gap: 3.2rem;
+    max-width: 132rem;
+    margin: auto;
+  }
+
+  & img {
+    width: 100%;
+    max-width: 50rem;
+    height: 16rem;
+  }
+}
+
+
+
+
+/* footer */
+
+.footer-contact {
+  height: 10rem;
+  display: flex;
+  gap: 2.4rem;
+  align-items: center;
+
+  & .icon {
+    color: #3a4ed5;
+    font-size: 3.6rem;
+
+    & .icon:nth-child(2) {
+      rotate: 90deg;
+    }
+  }
+}
+
+.footer-contact-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+
+  & p {
+    font-size: 1.5rem;
+    color: #757575;
+  }
+
+  & p:first-child {
+    font-size: 1.7rem;
+    font-weight: bold;
+    color: #fff;
+  }
+}
+
+.footer-menu {
+  & ul {
+    display: flex;
+    justify-content: end;
+  }
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+.footer-section {
+
+  background: #151414;
+  position: relative;
+  margin-top: 2rem;
+  /* position:absolute;
+  width: 100%;
+  bottom: auto; */
+}
+
+.copyright-area {
+  background: #202020;
+  padding: 25px 0;
+}
+.copyright-text p {
+  margin: 0;
+  font-size: 14px;
+  color: #878787;
+}
+.copyright-text p a {
+  color: #3a4ed5;
+  margin-left: 0.6rem;
+}
+.footer-menu li {
+  display: inline-block;
+  margin-left: 20px;
+}
+.footer-menu li:hover a {
+  color: #3a4ed5;
+}
+.footer-menu li a {
+  font-size: 14px;
+  color: #878787;
 }

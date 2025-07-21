@@ -5,7 +5,7 @@
     "City": "Bangalore",
     "TicketPrice": 999,
     "AboutEvent": "A gathering of top tech minds showcasing next-gen innovations.",
-    "image": "https://source.unsplash.com/featured/?technology",
+    "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-08-10"
   },
   {
@@ -14,7 +14,7 @@
     "City": "Mumbai",
     "TicketPrice": 499,
     "AboutEvent": "An electrifying night with the best indie bands in the country.",
-    "image": "https://source.unsplash.com/featured/?music",
+    "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-08-24"
   },
   {
@@ -23,7 +23,7 @@
     "City": "Hyderabad",
     "TicketPrice": 299,
     "AboutEvent": "Entrepreneurs pitch their ideas to top investors and mentors.",
-    "image": "https://source.unsplash.com/featured/?startup",
+    "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=3732&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-09-05"
   },
   {
@@ -32,7 +32,7 @@
     "City": "Delhi",
     "TicketPrice": 699,
     "AboutEvent": "Cosplay, comics, pop culture – all under one roof!",
-    "image": "https://source.unsplash.com/featured/?comics",
+    "image": "https://images.unsplash.com/photo-1697479865079-bf7ef1ea5e22?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-09-12"
   },
   {
@@ -41,7 +41,7 @@
     "City": "Pune",
     "TicketPrice": 250,
     "AboutEvent": "A vibrant display of modern and traditional artwork.",
-    "image": "https://source.unsplash.com/featured/?art",
+    "image": "https://images.unsplash.com/photo-1736862468994-68dbebbcc42f?q=80&w=2946&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-09-28"
   },
   {
@@ -50,7 +50,7 @@
     "City": "Chennai",
     "TicketPrice": 550,
     "AboutEvent": "A national dance competition with electrifying performances.",
-    "image": "https://source.unsplash.com/featured/?dance",
+    "image": "https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?q=80&w=3870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-10-03"
   },
   {
@@ -59,7 +59,7 @@
     "City": "Ahmedabad",
     "TicketPrice": 150,
     "AboutEvent": "Savor global cuisines and local delights in one place.",
-    "image": "https://source.unsplash.com/featured/?food",
+    "image": "https://images.unsplash.com/photo-1661685452870-e89b6e8c14fa?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-10-11"
   },
   {
@@ -68,7 +68,7 @@
     "City": "Rishikesh",
     "TicketPrice": 100,
     "AboutEvent": "A soulful weekend retreat with yoga, meditation, and peace.",
-    "image": "https://source.unsplash.com/featured/?yoga",
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=3020&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-10-19"
   },
   {
@@ -77,7 +77,7 @@
     "City": "Kolkata",
     "TicketPrice": 200,
     "AboutEvent": "Explore the city through a photographer’s lens.",
-    "image": "https://source.unsplash.com/featured/?photography",
+    "image": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?q=80&w=3732&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-10-26"
   },
   {
@@ -86,7 +86,7 @@
     "City": "Delhi",
     "TicketPrice": 300,
     "AboutEvent": "Run to support education for underprivileged children.",
-    "image": "https://source.unsplash.com/featured/?marathon",
+    "image": "https://images.unsplash.com/photo-1667781743417-a8099056261c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-11-02"
   },
   {
@@ -95,7 +95,7 @@
     "City": "Jaipur",
     "TicketPrice": 400,
     "AboutEvent": "Meet your favorite authors and explore world literature.",
-    "image": "https://source.unsplash.com/featured/?books",
+    "image": "https://images.unsplash.com/photo-1604361709763-44f7fc6dd075?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-11-09"
   },
   {
@@ -104,7 +104,7 @@
     "City": "Mumbai",
     "TicketPrice": 550,
     "AboutEvent": "Laugh your heart out with India’s funniest comedians.",
-    "image": "https://source.unsplash.com/featured/?comedy",
+    "image": "https://images.unsplash.com/photo-1543584756-8f40a802e14f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-11-15"
   },
   {
@@ -113,7 +113,7 @@
     "City": "Surat",
     "TicketPrice": 350,
     "AboutEvent": "The latest trends in home and interior design.",
-    "image": "https://source.unsplash.com/featured/?interior",
+    "image": "https://images.unsplash.com/photo-1503174971373-b1f69850bded?q=80&w=3013&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-11-23"
   },
   {
@@ -122,7 +122,7 @@
     "City": "Nagpur",
     "TicketPrice": 450,
     "AboutEvent": "Rewind to the 80s with music, dance, and costumes!",
-    "image": "https://source.unsplash.com/featured/?bollywood",
+    "image": "https://i.pinimg.com/736x/d0/2b/70/d02b70202240dd2cff99029babb8af00.jpg",
     "date": "2025-11-30"
   },
   {
@@ -131,7 +131,7 @@
     "City": "Noida",
     "TicketPrice": 700,
     "AboutEvent": "India's biggest car and bike exhibition.",
-    "image": "https://source.unsplash.com/featured/?cars",
+    "image": "https://images.unsplash.com/photo-1707341596498-7cac3cd6a581?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-12-05"
   },
   {
@@ -140,7 +140,7 @@
     "City": "Goa",
     "TicketPrice": 350,
     "AboutEvent": "Discussing climate action and sustainable futures.",
-    "image": "https://source.unsplash.com/featured/?nature",
+    "image": "https://images.unsplash.com/photo-1563477710521-5ae0aa5085ab?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-12-11"
   },
   {
@@ -149,7 +149,7 @@
     "City": "Bangalore",
     "TicketPrice": 800,
     "AboutEvent": "Explore robots, drones, and the future of AI.",
-    "image": "https://source.unsplash.com/featured/?robotics",
+    "image": "https://images.unsplash.com/photo-1551281306-0d52288970ad?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-12-14"
   },
   {
@@ -158,7 +158,7 @@
     "City": "Lucknow",
     "TicketPrice": 200,
     "AboutEvent": "For pet lovers: games, grooming, and pet adoptions.",
-    "image": "https://source.unsplash.com/featured/?pets",
+    "image": "https://images.unsplash.com/photo-1623387641168-d9803ddd3f35?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-12-20"
   },
   {
@@ -167,7 +167,7 @@
     "City": "Indore",
     "TicketPrice": 650,
     "AboutEvent": "A celebration of Indian textiles and fashion.",
-    "image": "https://source.unsplash.com/featured/?fashion",
+    "image": "https://images.unsplash.com/photo-1543728069-a3f97c5a2f32?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-12-23"
   },
   {
@@ -176,7 +176,7 @@
     "City": "Pune",
     "TicketPrice": 599,
     "AboutEvent": "Gamers unite for esports battles and tech reveals.",
-    "image": "https://source.unsplash.com/featured/?gaming",
+    "image": "https://abmagazine.accaglobal.com/content/abmagazine/global/articles/2025/may/business/gaming-industry-at-the-crossroads/jcr:content/desktopimage.desktop.jpg/1746781136958/28Apr_BUS_IndiaGaming_SA_properties.jpg",
     "date": "2025-12-28"
   },
   {
@@ -185,7 +185,7 @@
     "City": "Shimla",
     "TicketPrice": 300,
     "AboutEvent": "Healing, empowerment, and sisterhood in the mountains.",
-    "image": "https://source.unsplash.com/featured/?wellness",
+    "image": "https://img.skininc.com/files/base/allured/all/image/2022/06/dreamstime_s_174269914.62bb80d0ca444.png?auto=format%2Ccompress&q=70&rect=0%2C33%2C800%2C450&w=700",
     "date": "2025-08-14"
   },
   {
@@ -194,7 +194,7 @@
     "City": "Chandigarh",
     "TicketPrice": 450,
     "AboutEvent": "Experience gripping stage dramas and plays.",
-    "image": "https://source.unsplash.com/featured/?theatre",
+    "image": "https://plus.unsplash.com/premium_photo-1664302637848-6ae0d5821944?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-08-21"
   },
   {
@@ -203,7 +203,7 @@
     "City": "Delhi",
     "TicketPrice": 200,
     "AboutEvent": "Walls speak as street artists take over the city!",
-    "image": "https://source.unsplash.com/featured/?graffiti",
+    "image": "https://images.unsplash.com/photo-1688188446274-3ebc8f9269b3?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-09-03"
   },
   {
@@ -212,7 +212,7 @@
     "City": "Mumbai",
     "TicketPrice": 750,
     "AboutEvent": "Enjoy beer tastings and BBQs with live bands.",
-    "image": "https://source.unsplash.com/featured/?bbq",
+    "image": "https://images.unsplash.com/photo-1674669520816-c3c5615dfe51?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-09-09"
   },
   {
@@ -221,7 +221,7 @@
     "City": "Bhopal",
     "TicketPrice": 150,
     "AboutEvent": "Fun science experiments and learning for kids.",
-    "image": "https://source.unsplash.com/featured/?science",
+    "image": "https://images.unsplash.com/photo-1613271752699-ede48a285196?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-09-17"
   },
   {
@@ -230,7 +230,7 @@
     "City": "Kochi",
     "TicketPrice": 100,
     "AboutEvent": "Watch iconic cars from history in action.",
-    "image": "https://source.unsplash.com/featured/?vintagecars",
+    "image": "https://images.unsplash.com/photo-1566276314837-a00b950f1feb?q=80&w=1227&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-09-22"
   },
   {
@@ -239,7 +239,7 @@
     "City": "Gurgaon",
     "TicketPrice": 999,
     "AboutEvent": "Level up your skills in JavaScript, React, and more.",
-    "image": "https://source.unsplash.com/featured/?coding",
+    "image": "https://images.unsplash.com/photo-1510511233900-1982d92bd835?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-10-01"
   },
   {
@@ -248,7 +248,7 @@
     "City": "Rajkot",
     "TicketPrice": 300,
     "AboutEvent": "Dance, devotion, and dazzling traditional attire.",
-    "image": "https://source.unsplash.com/featured/?garba",
+    "image": "https://jaipurbeat.com/wp-content/uploads/2018/10/navratri-3.jpg?w=1200",
     "date": "2025-10-07"
   },
   {
@@ -257,7 +257,7 @@
     "City": "Varanasi",
     "TicketPrice": 350,
     "AboutEvent": "Explore traditions and food from across India.",
-    "image": "https://source.unsplash.com/featured/?culture",
+    "image": "https://blog.ipleaders.in/wp-content/uploads/2020/12/Cultural-Exchanges.jpeg",
     "date": "2025-10-16"
   },
   {
@@ -266,7 +266,7 @@
     "City": "Chennai",
     "TicketPrice": 500,
     "AboutEvent": "Basics of personal finance and smart investing.",
-    "image": "https://source.unsplash.com/featured/?finance",
+    "image": "https://plus.unsplash.com/premium_photo-1661756423422-4486e27eb6dd?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-10-21"
   },
   {
@@ -275,7 +275,7 @@
     "City": "Jaipur",
     "TicketPrice": 150,
     "AboutEvent": "Raw and real poetry by new-age poets.",
-    "image": "https://source.unsplash.com/featured/?poetry",
+    "image": "https://images.unsplash.com/photo-1605957088164-227c6e613547?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-10-29"
   },
   {
@@ -284,7 +284,7 @@
     "City": "Manali",
     "TicketPrice": 200,
     "AboutEvent": "Watch classics under the stars with popcorn.",
-    "image": "https://source.unsplash.com/featured/?movie",
+    "image": "https://images.unsplash.com/photo-1658195952756-892740657893?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-11-03"
   },
   {
@@ -293,7 +293,7 @@
     "City": "Lucknow",
     "TicketPrice": 400,
     "AboutEvent": "Lose yourself in soul-touching Sufi music.",
-    "image": "https://source.unsplash.com/featured/?sufi",
+    "image": "https://images.unsplash.com/photo-1609332019377-c1d7744e0756?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-11-08"
   },
   {
@@ -302,7 +302,7 @@
     "City": "Dehradun",
     "TicketPrice": 599,
     "AboutEvent": "Learn pro techniques from award-winning photographers.",
-    "image": "https://source.unsplash.com/featured/?dslr",
+    "image": "https://plus.unsplash.com/premium_photo-1661670066952-419ba1db32fc?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-11-14"
   },
   {
@@ -311,7 +311,7 @@
     "City": "Bangalore",
     "TicketPrice": 950,
     "AboutEvent": "Explore trends and tools in user experience design.",
-    "image": "https://source.unsplash.com/featured/?ux",
+    "image": "https://plus.unsplash.com/premium_photo-1733306548826-95daff988ae6?q=80&w=3012&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-11-19"
   },
   {
@@ -320,7 +320,7 @@
     "City": "Kolkata",
     "TicketPrice": 600,
     "AboutEvent": "Live matches, trivia contests, and celeb guests.",
-    "image": "https://source.unsplash.com/featured/?cricket",
+    "image": "https://plus.unsplash.com/premium_photo-1661861204104-6a6dbf55ff6e?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-11-27"
   },
   {
@@ -329,7 +329,7 @@
     "City": "Hyderabad",
     "TicketPrice": 700,
     "AboutEvent": "Fast-paced drone races and futuristic gadgets.",
-    "image": "https://source.unsplash.com/featured/?drone",
+    "image": "https://images.unsplash.com/photo-1663336392366-a08ea97bb28f?q=80&w=1696&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "date": "2025-12-01"
   },
   {
@@ -338,7 +338,7 @@
     "City": "Delhi",
     "TicketPrice": 250,
     "AboutEvent": "For meme creators, lovers, and internet nerds!",
-    "image": "https://source.unsplash.com/featured/?memes",
+    "image": "https://i.imgflip.com/7f9vxf.jpg",
     "date": "2025-12-07"
   },
   {
@@ -347,7 +347,7 @@
     "City": "Pune",
     "TicketPrice": 200,
     "AboutEvent": "Polyglots and learners unite to speak, share, and learn.",
-    "image": "https://source.unsplash.com/featured/?language",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYfsSmLV7wL7QLs1BZng3w5RV0s0-Fh6K4g&s",
     "date": "2025-12-15"
   },
   {
@@ -356,7 +356,7 @@
     "City": "Goa",
     "TicketPrice": 550,
     "AboutEvent": "Remote work meetups, beach vibes, and productivity hacks.",
-    "image": "https://source.unsplash.com/featured/?laptop",
+    "image": "https://d2228rr16d3wie.cloudfront.net/photos/others/Digital+Nomad.webp",
     "date": "2025-12-22"
   }
 ]
