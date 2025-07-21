@@ -1,7 +1,11 @@
-import { HeroSection } from "../components/UI/HeroSection"
+import { HeroSection } from "../components/UI/HeroSection";
+import { About } from "./About";
 
 export const Home = () => {
   return (
-    <HeroSection/>
-  )
-}
+    <>
+      <HeroSection />
+      <About />
+    </>
+  );
+};

@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "EventName": "Tech Innovators Summit",
+    "City": "Bangalore",
+    "TicketPrice": 999,
+    "AboutEvent": "A gathering of top tech minds showcasing next-gen innovations.",
+    "image": "https://source.unsplash.com/featured/?technology",
+    "date": "2025-08-10"
+  },
+  {
+    "id": 2,
+    "EventName": "Indie Music Fest",
+    "City": "Mumbai",
+    "TicketPrice": 499,
+    "AboutEvent": "An electrifying night with the best indie bands in the country.",
+    "image": "https://source.unsplash.com/featured/?music",
+    "date": "2025-08-24"
+  },
+  {
+    "id": 3,
+    "EventName": "Startup Pitch Day",
+    "City": "Hyderabad",
+    "TicketPrice": 299,
+    "AboutEvent": "Entrepreneurs pitch their ideas to top investors and mentors.",
+    "image": "https://source.unsplash.com/featured/?startup",
+    "date": "2025-09-05"
+  },
+  {
+    "id": 4,
+    "EventName": "Comic Con India",
+    "City": "Delhi",
+    "TicketPrice": 699,
+    "AboutEvent": "Cosplay, comics, pop culture – all under one roof!",
+    "image": "https://source.unsplash.com/featured/?comics",
+    "date": "2025-09-12"
+  },
+  {
+    "id": 5,
+    "EventName": "Art & Soul Exhibition",
+    "City": "Pune",
+    "TicketPrice": 250,
+    "AboutEvent": "A vibrant display of modern and traditional artwork.",
+    "image": "https://source.unsplash.com/featured/?art",
+    "date": "2025-09-28"
+  },
+  {
+    "id": 6,
+    "EventName": "Dance India Dance",
+    "City": "Chennai",
+    "TicketPrice": 550,
+    "AboutEvent": "A national dance competition with electrifying performances.",
+    "image": "https://source.unsplash.com/featured/?dance",
+    "date": "2025-10-03"
+  },
+  {
+    "id": 7,
+    "EventName": "Foodie Fiesta",
+    "City": "Ahmedabad",
+    "TicketPrice": 150,
+    "AboutEvent": "Savor global cuisines and local delights in one place.",
+    "image": "https://source.unsplash.com/featured/?food",
+    "date": "2025-10-11"
+  },
+  {
+    "id": 8,
+    "EventName": "Yoga for Peace",
+    "City": "Rishikesh",
+    "TicketPrice": 100,
+    "AboutEvent": "A soulful weekend retreat with yoga, meditation, and peace.",
+    "image": "https://source.unsplash.com/featured/?yoga",
+    "date": "2025-10-19"
+  },
+  {
+    "id": 9,
+    "EventName": "Photography Walk",
+    "City": "Kolkata",
+    "TicketPrice": 200,
+    "AboutEvent": "Explore the city through a photographer’s lens.",
+    "image": "https://source.unsplash.com/featured/?photography",
+    "date": "2025-10-26"
+  },
+  {
+    "id": 10,
+    "EventName": "Marathon for Change",
+    "City": "Delhi",
+    "TicketPrice": 300,
+    "AboutEvent": "Run to support education for underprivileged children.",
+    "image": "https://source.unsplash.com/featured/?marathon",
+    "date": "2025-11-02"
+  },
+  {
+    "id": 11,
+    "EventName": "Literary Fest 2025",
+    "City": "Jaipur",
+    "TicketPrice": 400,
+    "AboutEvent": "Meet your favorite authors and explore world literature.",
+    "image": "https://source.unsplash.com/featured/?books",
+    "date": "2025-11-09"
+  },
+  {
+    "id": 12,
+    "EventName": "Standup Night",
+    "City": "Mumbai",
+    "TicketPrice": 550,
+    "AboutEvent": "Laugh your heart out with India’s funniest comedians.",
+    "image": "https://source.unsplash.com/featured/?comedy",
+    "date": "2025-11-15"
+  },
+  {
+    "id": 13,
+    "EventName": "Interior Design Expo",
+    "City": "Surat",
+    "TicketPrice": 350,
+    "AboutEvent": "The latest trends in home and interior design.",
+    "image": "https://source.unsplash.com/featured/?interior",
+    "date": "2025-11-23"
+  },
+  {
+    "id": 14,
+    "EventName": "Bollywood Retro Night",
+    "City": "Nagpur",
+    "TicketPrice": 450,
+    "AboutEvent": "Rewind to the 80s with music, dance, and costumes!",
+    "image": "https://source.unsplash.com/featured/?bollywood",
+    "date": "2025-11-30"
+  },
+  {
+    "id": 15,
+    "EventName": "Auto Expo",
+    "City": "Noida",
+    "TicketPrice": 700,
+    "AboutEvent": "India's biggest car and bike exhibition.",
+    "image": "https://source.unsplash.com/featured/?cars",
+    "date": "2025-12-05"
+  },
+  {
+    "id": 16,
+    "EventName": "Green Earth Conference",
+    "City": "Goa",
+    "TicketPrice": 350,
+    "AboutEvent": "Discussing climate action and sustainable futures.",
+    "image": "https://source.unsplash.com/featured/?nature",
+    "date": "2025-12-11"
+  },
+  {
+    "id": 17,
+    "EventName": "AI & Robotics Fair",
+    "City": "Bangalore",
+    "TicketPrice": 800,
+    "AboutEvent": "Explore robots, drones, and the future of AI.",
+    "image": "https://source.unsplash.com/featured/?robotics",
+    "date": "2025-12-14"
+  },
+  {
+    "id": 18,
+    "EventName": "Pet Fest",
+    "City": "Lucknow",
+    "TicketPrice": 200,
+    "AboutEvent": "For pet lovers: games, grooming, and pet adoptions.",
+    "image": "https://source.unsplash.com/featured/?pets",
+    "date": "2025-12-20"
+  },
+  {
+    "id": 19,
+    "EventName": "Ethnic Fashion Week",
+    "City": "Indore",
+    "TicketPrice": 650,
+    "AboutEvent": "A celebration of Indian textiles and fashion.",
+    "image": "https://source.unsplash.com/featured/?fashion",
+    "date": "2025-12-23"
+  },
+  {
+    "id": 20,
+    "EventName": "GamingCon India",
+    "City": "Pune",
+    "TicketPrice": 599,
+    "AboutEvent": "Gamers unite for esports battles and tech reveals.",
+    "image": "https://source.unsplash.com/featured/?gaming",
+    "date": "2025-12-28"
+  },
+  {
+    "id": 21,
+    "EventName": "Women's Wellness Retreat",
+    "City": "Shimla",
+    "TicketPrice": 300,
+    "AboutEvent": "Healing, empowerment, and sisterhood in the mountains.",
+    "image": "https://source.unsplash.com/featured/?wellness",
+    "date": "2025-08-14"
+  },
+  {
+    "id": 22,
+    "EventName": "Theatre Nights",
+    "City": "Chandigarh",
+    "TicketPrice": 450,
+    "AboutEvent": "Experience gripping stage dramas and plays.",
+    "image": "https://source.unsplash.com/featured/?theatre",
+    "date": "2025-08-21"
+  },
+  {
+    "id": 23,
+    "EventName": "Street Art Fest",
+    "City": "Delhi",
+    "TicketPrice": 200,
+    "AboutEvent": "Walls speak as street artists take over the city!",
+    "image": "https://source.unsplash.com/featured/?graffiti",
+    "date": "2025-09-03"
+  },
+  {
+    "id": 24,
+    "EventName": "Beer & BBQ Carnival",
+    "City": "Mumbai",
+    "TicketPrice": 750,
+    "AboutEvent": "Enjoy beer tastings and BBQs with live bands.",
+    "image": "https://source.unsplash.com/featured/?bbq",
+    "date": "2025-09-09"
+  },
+  {
+    "id": 25,
+    "EventName": "Science for Kids Expo",
+    "City": "Bhopal",
+    "TicketPrice": 150,
+    "AboutEvent": "Fun science experiments and learning for kids.",
+    "image": "https://source.unsplash.com/featured/?science",
+    "date": "2025-09-17"
+  },
+  {
+    "id": 26,
+    "EventName": "Vintage Car Rally",
+    "City": "Kochi",
+    "TicketPrice": 100,
+    "AboutEvent": "Watch iconic cars from history in action.",
+    "image": "https://source.unsplash.com/featured/?vintagecars",
+    "date": "2025-09-22"
+  },
+  {
+    "id": 27,
+    "EventName": "Coding Bootcamp",
+    "City": "Gurgaon",
+    "TicketPrice": 999,
+    "AboutEvent": "Level up your skills in JavaScript, React, and more.",
+    "image": "https://source.unsplash.com/featured/?coding",
+    "date": "2025-10-01"
+  },
+  {
+    "id": 28,
+    "EventName": "Navratri Garba Nights",
+    "City": "Rajkot",
+    "TicketPrice": 300,
+    "AboutEvent": "Dance, devotion, and dazzling traditional attire.",
+    "image": "https://source.unsplash.com/featured/?garba",
+    "date": "2025-10-07"
+  },
+  {
+    "id": 29,
+    "EventName": "Cultural Exchange Fair",
+    "City": "Varanasi",
+    "TicketPrice": 350,
+    "AboutEvent": "Explore traditions and food from across India.",
+    "image": "https://source.unsplash.com/featured/?culture",
+    "date": "2025-10-16"
+  },
+  {
+    "id": 30,
+    "EventName": "Investment 101 Workshop",
+    "City": "Chennai",
+    "TicketPrice": 500,
+    "AboutEvent": "Basics of personal finance and smart investing.",
+    "image": "https://source.unsplash.com/featured/?finance",
+    "date": "2025-10-21"
+  },
+  {
+    "id": 31,
+    "EventName": "Poetry Slam Night",
+    "City": "Jaipur",
+    "TicketPrice": 150,
+    "AboutEvent": "Raw and real poetry by new-age poets.",
+    "image": "https://source.unsplash.com/featured/?poetry",
+    "date": "2025-10-29"
+  },
+  {
+    "id": 32,
+    "EventName": "Outdoor Movie Weekend",
+    "City": "Manali",
+    "TicketPrice": 200,
+    "AboutEvent": "Watch classics under the stars with popcorn.",
+    "image": "https://source.unsplash.com/featured/?movie",
+    "date": "2025-11-03"
+  },
+  {
+    "id": 33,
+    "EventName": "Sufi Music Night",
+    "City": "Lucknow",
+    "TicketPrice": 400,
+    "AboutEvent": "Lose yourself in soul-touching Sufi music.",
+    "image": "https://source.unsplash.com/featured/?sufi",
+    "date": "2025-11-08"
+  },
+  {
+    "id": 34,
+    "EventName": "Photography Masterclass",
+    "City": "Dehradun",
+    "TicketPrice": 599,
+    "AboutEvent": "Learn pro techniques from award-winning photographers.",
+    "image": "https://source.unsplash.com/featured/?dslr",
+    "date": "2025-11-14"
+  },
+  {
+    "id": 35,
+    "EventName": "UX Design Conference",
+    "City": "Bangalore",
+    "TicketPrice": 950,
+    "AboutEvent": "Explore trends and tools in user experience design.",
+    "image": "https://source.unsplash.com/featured/?ux",
+    "date": "2025-11-19"
+  },
+  {
+    "id": 36,
+    "EventName": "Cricket Fan Fest",
+    "City": "Kolkata",
+    "TicketPrice": 600,
+    "AboutEvent": "Live matches, trivia contests, and celeb guests.",
+    "image": "https://source.unsplash.com/featured/?cricket",
+    "date": "2025-11-27"
+  },
+  {
+    "id": 37,
+    "EventName": "Drone Racing League",
+    "City": "Hyderabad",
+    "TicketPrice": 700,
+    "AboutEvent": "Fast-paced drone races and futuristic gadgets.",
+    "image": "https://source.unsplash.com/featured/?drone",
+    "date": "2025-12-01"
+  },
+  {
+    "id": 38,
+    "EventName": "MemeCon",
+    "City": "Delhi",
+    "TicketPrice": 250,
+    "AboutEvent": "For meme creators, lovers, and internet nerds!",
+    "image": "https://source.unsplash.com/featured/?memes",
+    "date": "2025-12-07"
+  },
+  {
+    "id": 39,
+    "EventName": "Language Lovers Meetup",
+    "City": "Pune",
+    "TicketPrice": 200,
+    "AboutEvent": "Polyglots and learners unite to speak, share, and learn.",
+    "image": "https://source.unsplash.com/featured/?language",
+    "date": "2025-12-15"
+  },
+  {
+    "id": 40,
+    "EventName": "Digital Nomads India",
+    "City": "Goa",
+    "TicketPrice": 550,
+    "AboutEvent": "Remote work meetups, beach vibes, and productivity hacks.",
+    "image": "https://source.unsplash.com/featured/?laptop",
+    "date": "2025-12-22"
+  }
+]

@@ -10,6 +10,7 @@ import { About } from './pages/About';
 import { Events } from './pages/Events';
 import { Contact } from './pages/Contact';
 import { ErrorPage } from './pages/ErrorPage';
+import { EventDetails } from './components/layout/EventDetails';
 
 const router = createBrowserRouter([
   {
@@ -27,13 +28,19 @@ const router = createBrowserRouter([
         element:<About/>
       },
       {
-        path:'Events',
+        path:'events',
         element:<Events/>
       },
       {
         path:'Contact',
         element:<Contact/>
-      }     
+      },
+
+      // using ":" after a forward slash make your route dynamic ,which here we are using in EventCard.jsx with the read more button functionality
+      {
+    path:"events/:id",
+    element:<EventDetails/>
+  }  
     ]
   }
 ])
