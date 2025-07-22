@@ -1,65 +1,3 @@
-// import eventDetails from "../../api/eventData.json";
-// import { NavLink } from "react-router-dom";
-// import { FaArrowRightLong } from "react-icons/fa6";
-
-// export const EventCard = () => {
-//   return (
-//     <section>
-//       <h1 className="container-title">
-//         Events You'll Love <br /> "Concerts, expos, meetups & more — explore
-//         what's next."
-//       </h1>
-
-//       <div className="gradient-cards">
-//         {eventDetails.map((country) => {
-//           {
-//             /* this is the redundant part of code */
-//           }
-//           const { image, id, EventName, City, AboutEvent, date, TicketPrice } =
-//             country;
-
-//           return (
-//             <div className="card" key={id}>
-//               <div className="container-card bg-blue-box">
-//                 <div className="">
-//                   <img
-//                     className="h-120 w-full rounded-2xl object-cover"
-//                     src={image}
-//                     alt="img"
-//                   />
-//                 </div>
-//                 <p className="card-title">{EventName}</p>
-//                 <p>
-//                   <span className="card-description">Date:</span>
-//                   {date}
-//                 </p>
-//                 <p>
-//                   <span className="card-description">City:</span>
-//                   {City}
-//                 </p>
-//                 <p>
-//                   <span className="card-description">About Event:</span>
-//                   {AboutEvent}
-//                 </p>
-//                 <p>
-//                   <span className="card-description">Ticket Price: Rs-</span>
-//                   {TicketPrice}
-//                 </p>
-
-//                 {/* when we click the read more button it should get us all the data with dynamic route */}
-//                 <NavLink to={"EventDetails"}>
-//                   <button>
-//                     Book Now <FaArrowRightLong />
-//                   </button>
-//                 </NavLink>
-//               </div>
-//             </div>
-//           );
-//         })}
-//       </div>
-//     </section>
-//   );
-// };
 
 import { useState } from "react";
 import eventDetails from "../../api/eventData.json";
@@ -90,7 +28,7 @@ const BookingForm = ({ event, onClose, onSubmit }) => {
     e.preventDefault();
     setIsLoading(true);
 
-    // Simulate API call
+    
     setTimeout(() => {
       const id =
         "BK-" + Math.random().toString(36).substring(2, 10).toUpperCase();
@@ -250,8 +188,7 @@ export const EventCard = () => {
   return (
     <section>
       <h1 className="container-title">
-        Events You'll Love <br /> "Concerts, expos, meetups & more — explore
-        what's next."
+       Dive Into The World Of Events
       </h1>
 
       <div className="gradient-cards">
